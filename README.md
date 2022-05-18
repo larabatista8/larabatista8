@@ -9,7 +9,7 @@
 
 
 
-<div align="center">
+<div align ="center" "display: inline_block">
 <a href="https://github.com/larabatista8">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larabatista8&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larabatista8&layout=compact&langs_count=7&theme=radical"/>
