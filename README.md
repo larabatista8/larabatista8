@@ -2,11 +2,7 @@
 
 
 
-- 🔭 Altualmente estou fazendo faculdade de Engenharia da Computação
-- 🌱 Altualmente estou estudando HTML, CSS e JavaScript para me tornar uma desenvolvedora front-end
-- ⚡ Hobby: Assitir doramas
-- 📕 Inglês nível básico
-
+- 🔭Estudante de Engenharia de computação
 
 
 <div align ="center" "display: inline_block">
